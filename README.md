@@ -2,7 +2,7 @@
 
 > COPYRIGHT NOTICE: ALL PHOTOS INSIDE THIS REPOSITORY BELONG TO [LIAM WONG](https://twitter.com/liamwong)!
 
-Change the background color of an UIView according to the image inside the UIImageView.
+Change the background color of an UIView according to the UIImage inside the UIImageView.
 
 | Example 1 | Example 2 | Example 3 | Example 4 |
 | :-------: | :-------: | :-------: | :-------: |
