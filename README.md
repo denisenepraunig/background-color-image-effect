@@ -17,3 +17,7 @@ I wanted to reproduce this effect. I've used the [average color](https://www.hac
 ) by 15%.
 
 You find the code for the average color and the darkening inside the ```UIColor+UIImage+Extension.swift``` file.
+
+Here you see the effect in action:
+
+![Example GIF](example.gif)
